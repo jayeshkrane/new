@@ -1,4 +1,4 @@
-<img src="https://github.com/jayeshkrane/new/blob/main/Black%20and%20White%20Youtube%20Profile%20Picture%20.png" 
+<img src="https://github.com/jayeshkrane/new/blob/main/Github%20profile.png" 
 alt="Jayesh K. Rane" style="border-radius: 5px;" />
 <h1 align="center">Hi 👋, I'm Jayesh Rane</h1>
 <h3 align="center">Aspiring Cloud & DevOps Engineer | AWS | Linux | Docker</h3>
