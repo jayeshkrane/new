@@ -60,7 +60,7 @@ Eager to contribute to building scalable, reliable, and automated systems.
 ## 🎓 Education
 
 - 🎓 B.Tech (ENTC) – J.T. Mahajan College of Engineering (2024)  
-- 🎓 B.Sc Mathematics – Rajkunwar College (2021)
+  
 
 ---
 
